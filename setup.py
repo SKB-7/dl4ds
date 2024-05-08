@@ -47,7 +47,7 @@ setup(
         'xarray',
         'ecubevis',
         'tensorflow',
-        'scikit-learn' #'sklearn',
+        'scikit-learn', #'sklearn',
         'opencv-python',
         'joblib',
         'seaborn',
